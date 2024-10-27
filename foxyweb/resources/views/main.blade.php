@@ -18,7 +18,7 @@
         @include('partials.navbar')
     </header>
     <div>
-        @yield('main-container')
+        @yield('container')
     </div>
     {{-- @include('partials.footer') --}}
 </body>
